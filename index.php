@@ -7,5 +7,10 @@
 </head>
 <body>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias iure facere aspernatur hic, earum veniam beatae dignissimos ipsa doloremque. Iste dolore explicabo nobis laborum sunt consequuntur, nemo doloribus tempora nisi!</p>
+    <ul>
+        <li>list 1</li>
+        <li>list 2</li>
+        <li>list 3</li>
+    </ul>
 </body>
 </html>
